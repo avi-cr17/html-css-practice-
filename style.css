@@ -139,7 +139,7 @@ nav .container{
     bottom: 100%;
     width: 100%;
     left: 0;
-    z-index: 20;
+    z-index: 19;
     background: linear-gradient(to top, #151515, transparent);
 }
 

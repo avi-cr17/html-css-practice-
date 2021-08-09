@@ -19,7 +19,7 @@ window.addEventListener('scroll', () => {
 
     translate.forEach(element => {
         let speed = element.dataset.speed;
-        element.style.transform = `translateY(${scroll * speed*5}px)`;
+        element.style.transform = `translateY(${scroll * speed}px)`;
     });
 
     opacity.forEach(element => {
